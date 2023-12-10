@@ -1,4 +1,4 @@
-# U-Net: Convolutional Networks for Biomedical Image Segmentation
+# U-Net: Convolutional Networks for Image Segmentation
 
 ## Introduction
 U-Net is a convolutional neural network (CNN) architecture developed for biomedical image segmentation. It was introduced by Olaf Ronneberger, Philipp Fischer, and Thomas Brox in their 2015 paper. U-Net is designed to work with fewer training samples but still achieve precise segmentation, which is crucial in medical imaging.
