@@ -1,10 +1,4 @@
-|Section|Sub-Section|Title||||
-|---|---|---|---|---|---|
-|1|Fundamentals and Theories|||||
-|1|^                        |||||
-|2|Basic Operations and Codes|||||
-|2||Basic Operations and Codes|||||
-|3||||||
+
 
 # U-Net: Convolutional Networks for Image Segmentation
 
