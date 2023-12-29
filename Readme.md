@@ -1,5 +1,5 @@
 |Section|Sub-Section|Title||||
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|---|---|---|---|---|---|
 |1|Fundamentals and Theories|||||
 |1|^                        |||||
 |2|Basic Operations and Codes|||||
